@@ -1,2 +1,2 @@
-# C-u-tr-c-m-u
+# Cautrucmau
 Cấu trúc mẫu
